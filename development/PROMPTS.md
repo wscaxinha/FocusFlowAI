@@ -36,6 +36,6 @@ Com a IA, precisamos garantir que ela seja usada para ajudar, não para prejudic
 
 - **Saúde:** diagnósticos mais rápidos (verificar).
 
-- **Meio ambiente:** prever desmatamento e poluição.'
+- **Meio ambiente:** prever desmatamento e poluição.
 
 
