@@ -38,4 +38,41 @@ Com a IA, precisamos garantir que ela seja usada para ajudar, não para prejudic
 
 - **Meio ambiente:** prever desmatamento e poluição.
 
+## ⚠️ Riscos do mau uso
+
+- **Privacidade:** coleta de dados sem permissão.
+
+- **Fake news:** criação de notícias falsas.
+
+- **Desigualdade:** acesso restrito a poucos.
+
+## 💼 Como usar de forma ética?
+
+- **Transparência:** explicar como funciona.
+
+- **Responsabilidade:** pensar nas consequências.
+
+- **Inclusão:** garantir acesso para todos.
+
+## 🗂️ Cards informativos
+#### Card 1 – O que é IA?  
+Máquinas que aprendem e ajudam em tarefas.
+
+#### Card 2 – Ética na IA  
+Usar de forma justa e responsável.
+
+#### Card 3 – Usos positivos  
+Educação, saúde (verificar) e meio ambiente.
+
+#### Card 4 – Riscos  
+Privacidade, fake news e desigualdade.
+
+#### Card 5 – Caminho ético  
+Transparência, responsabilidade e inclusão.
+
+## ✨ Mensagem final
+A IA pode transformar o mundo para melhor.
+Mas depende das nossas escolhas hoje.
+Se usada com ética, ela será uma aliada.
+
 
